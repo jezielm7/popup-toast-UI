@@ -1,7 +1,7 @@
 # Snapshots 📸
 
-<div>
-  <img width="300" src=".github/success-popup.gif" />
-  <img width="300" src=".github/warning-popup.gif" />
-  <img width="300" src=".github/danger-popup.gif" />
-</div>
+## Example popup
+
+|                          Success Popup                          |                          Warning Popup                          |                         Danger Popup                         |
+| :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![](.github/success-popup.gif) | ![](.github/warning-popup.gif) | ![](.github/danger-popup.gif)
